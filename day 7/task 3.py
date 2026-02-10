@@ -40,7 +40,7 @@ s1.display()
 s2.display()
 
 print("Result Check:")
-print("Madan:", Student.is_pass(75))
+print("bhuvan:", Student.is_pass(75))
 print("Rahul:", Student.is_pass(30))
 
 

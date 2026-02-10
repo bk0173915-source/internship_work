@@ -18,4 +18,4 @@ print("Admin Access:")
 dashboard("admin")
 
 print("\nNormal User Access:")
-dashboard("bhuvana")
+dashboard("madan")

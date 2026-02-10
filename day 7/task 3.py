@@ -26,7 +26,7 @@ class Student:
         print()
         
 
-s1 = Student("bhuvana", 101)
+s1 = Student("madan", 101)
 s2 = Student("Rahul", 102)
 
 print("Before Changing College:\n")
@@ -40,7 +40,7 @@ s1.display()
 s2.display()
 
 print("Result Check:")
-print("bhuvana:", Student.is_pass(75))
+print("madan:", Student.is_pass(75))
 print("Rahul:", Student.is_pass(30))
 
 
